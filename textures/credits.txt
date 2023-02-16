@@ -1,0 +1,5 @@
+ui_sun_icon.png
+	http://commons.wikimedia.org/wiki/File:2012-10-13_15-29-35-sun.jpg
+
+daymachine_daymachine_front.png
+    CC0, designed by Niwla
